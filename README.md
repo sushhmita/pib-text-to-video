@@ -20,9 +20,9 @@ To showcase the workflow of a text-driven media generation interface:
 ---
 
 ## 🛠 Technologies Used
-- HTML  
+- HTML
+- TypeScript
 - CSS  
-- JavaScript  
 
 ---
 
