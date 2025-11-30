@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "about-section",
+      "description": "Abstract AI visualization for the about section.",
+      "imageUrl": "https://images.unsplash.com/photo-1727434032792-c7ef921ae086?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxhYnN0cmFjdCUyMGFpfGVufDB8fHx8MTc2NDM1MjMyMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract ai"
+    },
+    {
+      "id": "team-supervisor",
+      "description": "Placeholder image for the project supervisor.",
+      "imageUrl": "https://media.licdn.com/dms/image/v2/D4D03AQHaLJnOjQ3oSg/profile-displayphoto-shrink_400_400/B4DZTwFZy8HYAg-/0/1739194736828?e=1766016000&v=beta&t=ruJpPyDDHTpfrV8G7KLvnH_w2FtlU_brBj-sL4A0jek",
+      "imageHint": "professional portrait"
+    },
+    {
+      "id": "team-member-1",
+      "description": "Placeholder image for team member 1.",
+      "imageUrl": "https://media.licdn.com/dms/image/v2/D5603AQHBu3fZI6M1Mg/profile-displayphoto-shrink_400_400/B56ZTX7A3dHoAo-/0/1738789360113?e=1766016000&v=beta&t=qwDP27wjUNO--J2dobzAwcbaMOltvvxCll3VMrx2zek",
+      "imageHint": "person smiling"
+    },
+    {
+      "id": "team-member-2",
+      "description": "Placeholder image for team member 2.",
+      "imageUrl": "https://media.licdn.com/dms/image/v2/D5603AQGOK7DUTGl4PA/profile-displayphoto-scale_400_400/B56ZjKdOe2HQAo-/0/1755743318513?e=1766016000&v=beta&t=4j5nMoOiey25_SKsAVsnNYDgVE8oNY5On-hBNUWuEdI",
+      "imageHint": "person smiling"
+    },
+    {
+      "id": "team-member-3",
+      "description": "Placeholder image for team member 3.",
+      "imageUrl": "https://media.licdn.com/dms/image/v2/D5603AQG0Kl0Z61JuvA/profile-displayphoto-scale_400_400/B56ZrP7.NIJUAk-/0/1764425198624?e=1766016000&v=beta&t=xfC4FStCUG-mMSUOsJMJRcOhiu1oYRIM91jZ1D6lK-Y",
+      "imageHint": "person smiling"
+    },
+    {
+      "id": "architecture-diagram",
+      "description": "Placeholder for the system architecture diagram.",
+      "imageUrl": "https://i.postimg.cc/BvY2z3s6/17154-B4-B-F88-B-4-C6-C-964-B-87-A4-F8-B3-C398.png",
+      "imageHint": "flowchart diagram"
+    }
+  ]
+}
